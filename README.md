@@ -46,4 +46,9 @@ The main difference between the original script and refactored script was the or
 
 ### Advantages and Disadvantages of Refactoring Code
 
+The main advantages why we want to refactor a code is because we want the code to run faster and have less stress on the hardware running it. The disadvantages of refactoring code is determining the tradeoff of time spent refactoring the code and the value we get back. If we have to spend hundreds of hours to refactor code to make it run 1 second faster then it provide minimal value and it's better to use the original code.
+
 ### Advantages and Disadvantages of the Original and Refactored VBA script 
+The advantages of the original script was it was shorter, however it took the system longer to run through the nested for loops.
+
+The advantages of the refactored script was it took the system shorter to process and run, however the script was longer than the original script because we had to introduce extra variable such as the tickerIndex and new output arrays tickerVolumes, tickerStartingPrices, and tickerEndingPrices. We also had to use more for loops compared to the original script.
