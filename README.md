@@ -29,7 +29,12 @@ The original script ran in 0.832 seconds and the refactored script ran in 0.199 
 
 The original script ran in 0.960 seconds and the refactored script ran in 0.211 seconds for 2018. We saved 0.749 seconds with the refactored code.
 
+### Analysis of Code Differences of Original and Refactored Scripts
+
+#### Original Script
 ![OG code](https://user-images.githubusercontent.com/92401000/140661286-ae31d9cc-9e46-4844-a3d7-26c8ce2e1eea.PNG)
+
+#### Refactor Script
 
 ![Refact Code](https://user-images.githubusercontent.com/92401000/140661401-4911e299-34e8-47b5-931d-0e49f67315fe.PNG)
 
